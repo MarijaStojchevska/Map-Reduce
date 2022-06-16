@@ -1,4 +1,4 @@
-# Map Reduce Model  
+# Counting friends using the MapReduce programming model
 
 - Counted the overall number of friends using data from a database of symmetric and a database of asymmetric friendships.
 - Used the Hadoop Distributed File System to manipulate and store large data-sets and enable their distributed processing.
